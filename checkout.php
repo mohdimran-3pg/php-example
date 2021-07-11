@@ -1,3 +1,6 @@
 <?php
-echo "checkout feature";
+class checkOut{
+    
+}
+
 ?>
