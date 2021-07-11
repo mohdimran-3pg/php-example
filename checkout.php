@@ -3,11 +3,15 @@ class checkOut{
     
     function B() {
 
+        return true;
     }
 
-    function A(){
+    public function A(){
 
-        
+
+    }
+    function C(){
+
     }
 
     function D(){
